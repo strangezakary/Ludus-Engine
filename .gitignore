@@ -1,0 +1,9 @@
+build/
+\#*\#
+.\#*
+*.o
+*~
+data/*
+release/
+!data/Shaders/
+debug/

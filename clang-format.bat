@@ -1,0 +1,5 @@
+forfiles /p .\code\ /m *.cpp /s /c "clang-format -style=file -i @RELPATH"
+forfiles /p .\code\ /m *.c /s /c "clang-format -style=file -i @RELPATH"
+forfiles /p .\code\ /m *.h /s /c "clang-format -style=file -i @RELPATH"
+forfiles /p .\code\ /m *.hpp /s /c "clang-format -style=file -i @RELPATH"
+forfiles /p .\code\ /m *.TMP /s /c "cmd /c del @RELPATH"
