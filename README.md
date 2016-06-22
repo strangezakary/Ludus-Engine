@@ -34,9 +34,9 @@ Dependencies
 
 Platform to support
 -------------------
-	[*] Windows
-    	[*] Mac
+	[*] Windows    	
 	[*] Linux
+	[*] Mac
 	[] IOS
 	[] Android
 	[] Web
