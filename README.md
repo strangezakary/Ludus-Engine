@@ -22,7 +22,7 @@ Contributing
 4. Run clang-format on your code and commit
 5. Open a merge request
 6. Be accepted or declined
-7. Be merged into development branch
+7. Be merged into the development branch
 
 _Development branch will be merged into master on minor version release_
 
